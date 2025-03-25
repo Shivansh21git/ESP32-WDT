@@ -62,7 +62,7 @@ void loop() {
 ```
 
 ## License
-This project is open-source and available under the MIT License.
+This project is open-source.
 
 ## Contributions
 Feel free to submit pull requests for improvements or new examples!
